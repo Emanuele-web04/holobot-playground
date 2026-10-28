@@ -6,3 +6,4 @@ MVP validation: verified.
 
 Run the deterministic check with `sh scripts/test.sh`.
 Phone sync verified.
+Fresh-base validation verified.
