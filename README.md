@@ -1,4 +1,5 @@
 # HoloBot Playground
+CI red test.
 
 This repository contains only synthetic test data.
 
